@@ -14,7 +14,7 @@ A responsive web app built using **React.js** and **Tailwind CSS** to manage use
 ## 🔧 Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/Shubham7270/Frontend-assignment.git
 2. Navigate to the project directory
    ```bash
    cd frontend-assignment
